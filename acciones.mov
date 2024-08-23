@@ -1,0 +1,4 @@
+agregar_stock Lápices;50;BodegaA
+eliminar_equipo Computadoras;20;BodegaB
+agregar_stock Escritorios;10;BodegaC
+eliminar_equipo Lápices;30;BodegaA
